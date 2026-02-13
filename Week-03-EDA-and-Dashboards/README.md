@@ -6,7 +6,7 @@
 0. Annoucements.
 	* Read weekly annoucments message
 0. Review last weeks HW.
-1. [Team Matchmaking Slides](https://docs.google.com/presentation/d/15dKy4DA3uGoQfVNo6KxRlTG8TmajlcNwxCbDfY0r_v8/edit?usp=sharing)
+1. [Team Matchmaking Slides](https://docs.google.com/presentation/d/1E0vG_1QVvn4Ahg1rIGoh4DSZGLprPz2MdKIT0xUUyZg/edit)
    * [Rick Ruben IG Short](https://www.instagram.com/screenwritinginla/reel/C0Qe8vMOGHH/) ~ 1 min
    * [Nick R's First Funny Function Short](https://www.youtube.com/shorts/FXiLOfout3Y) ~ 1 min
 
